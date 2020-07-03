@@ -50,6 +50,7 @@ EXPR_BLOCK_KEYS: Tuple[str, ...] = (
     "sql_trigger_value",
     "sql_table_name",
     "sql_distinct_key",
+    "sql_preamble",
     "sql_start",
     "sql_always_having",
     "sql_always_where",
